@@ -9,6 +9,7 @@
     <list default="true" id="f6ea5cc9-e92e-4996-9ff0-ceca295a944c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/dictionaries/adminPC.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/CartMapper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/CategoryMapper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/OrderItemMapper.java" afterDir="false" />
@@ -234,7 +235,7 @@
       <workItem from="1575964404753" duration="2411000" />
       <workItem from="1576114088575" duration="15283000" />
       <workItem from="1576203566183" duration="17213000" />
-      <workItem from="1576654330202" duration="4584000" />
+      <workItem from="1576654330202" duration="4828000" />
     </task>
     <servers />
   </component>
